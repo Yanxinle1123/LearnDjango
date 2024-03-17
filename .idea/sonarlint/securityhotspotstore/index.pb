@@ -1,0 +1,7 @@
+
+G
+LearnDjango/settings.py,5/9/5983b5b32dc3182c38bb22b07495c69fb920a497
+C
+LearnDjango/urls.py,5/3/5373f61cd140630b514c80c7f6d96b262c097494
+9
+	manage.py,3/1/3156ad13e4d695cd526bbb7b031016ecba842270
